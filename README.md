@@ -1,3 +1,2 @@
-# WizzardInfo
-Sitio web de prueba
+gorkarual.github.io
 index.html
